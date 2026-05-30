@@ -560,7 +560,6 @@ This curriculum prepares you for **AI Infrastructure Engineer** roles. For caree
 
 ---
 
-*Maintained by the AI Infrastructure Curriculum Project*
 *Contact: ai-infra-curriculum@joshua-ferguson.com*
 
 **Happy Learning!** 🎓🚀

@@ -20,6 +20,10 @@ References:
 - OpenAI API Specification: https://platform.openai.com/docs/api-reference
 """
 
+import utils.clients
+import utils.http_session
+import utils.transport
+import utils.session
 import logging
 import time
 from contextlib import asynccontextmanager
